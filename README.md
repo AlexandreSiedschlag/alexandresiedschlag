@@ -1,4 +1,4 @@
-### Hi there 👋, enjoy my Github!
+## Hi there 👋, enjoy my Github!
 
 <div align="center">
   <a href="https://github.com/AlexandreSiedschlag">
@@ -6,11 +6,11 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandresiedschlag&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
   
-<div style="display: inline_block"><br>
-  <p>What do i know? </p>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+## What Do i know?
+<div style="display: inline_block" align="center"><br>
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">HTML
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">CSS
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">JavaScript
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> Python
 </div>
 
