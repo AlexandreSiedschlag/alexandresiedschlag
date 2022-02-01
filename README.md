@@ -4,7 +4,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandresiedschlag&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
   
-## 🗯 What Do i know?
+## 🗯 What do i know?
 <div style="display: inline_block" align="center"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">HTML
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">CSS
